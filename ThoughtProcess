@@ -1,0 +1,8 @@
++module to fetch show data, last episode and name - done
++module to fetch episode data, name and airdate - done
++module to scrape for episode donwload links - next
++module to download episodes - next
++module to notify user of new episodes - next
++module to update database with new episodes - next
++module to update database with new shows - next
++module to update database with new seasons - next
