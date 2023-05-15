@@ -33,9 +33,8 @@ def elatest_episode():
                 else:
                     print(response.status_code)
     
-    return TVShow.from_table(table)
+    return table
 
 if __name__ == "__main__":
     shows_data = elatest_episode()
-    print("{} {} {} {}".format(shows_data['the-blacklist'].name, shows_data['the-blacklist'].season,
-                               shows_data['the-blacklist'].episode, shows_data['the-blacklist'].title))
+    print(tabulate(shows_data, headers=['Show', 'Season', 'Episode', 'Title', 'Watched']))
