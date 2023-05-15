@@ -1,7 +1,7 @@
 TV-Doggy Web Scraper
 ====================
+![undefined - Imgur](https://github.com/Imukua/Tv-Doggy/assets/122810834/3d837f9a-8e97-4bf1-9a67-a060896a8983)
 
-![alt text](https://imgur.com/78IiR5w)
 
 TV-Doggy is a Python web scraper that extracts the latest episodes of your favorite TV shows from the internet and provides you with a list of links to download the latest episode torrents or watch them online. It uses various web scraping techniques to extract the latest episode information from popular TV show databases and video hosting sites.
 
